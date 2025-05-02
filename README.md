@@ -4,11 +4,11 @@
  - In this repo i have also tried latest fetaures of java like instance main methods-whereby main method acts as entry point of java program.
  - Topics covered - Arrays, linkedlist,Stack,Queue, Trees, Graph,Dynamic Programming, etc..
 
-# Arrays-Problem List
+## Arrays-Problem List
  - To be updated soon
 
-# LinkedList-Problem List
+## LinkedList-Problem List
 - To be updated soon
 
-# Stack/Queue-Problem List
+## Stack/Queue-Problem List
 - To be updated soon
