@@ -5,10 +5,21 @@
  - Topics covered - Arrays, linkedlist,Stack,Queue, Trees, Graph,Dynamic Programming, etc..
 
 ## Arrays-Problem List
- - To be updated soon
+1. find max and minimun in array-single pass
+2. find 2 max elements in a single pass
+3. reverse the array/reverse only vowels
+4. fizzbuzz
+5. merge sorted array
+6. find duplicate in array
+7. count freqeuncy of each element
+8. 
 
 ## LinkedList-Problem List
 - To be updated soon
 
 ## Stack/Queue-Problem List
 - To be updated soon
+
+## DP
+1. fibonacci
+2. 
