@@ -25,3 +25,4 @@
 2. unique paths[62]
 3. Minimum path sum[64]
 4. House Robber[198]
+5. Permutation Sum[Tutort Academy]
