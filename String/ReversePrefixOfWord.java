@@ -1,5 +1,4 @@
-import java.awt.*;
-import java.util.Arrays;
+package String;
 
 public class ReversePrefixOfWord {
 

@@ -1,3 +1,5 @@
+package Arrays;
+
 public class MaxProductSubArray {
 
     public int maxProduct(int[] nums) {
