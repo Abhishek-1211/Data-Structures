@@ -17,8 +17,8 @@ e.g if N=6 then no. of  possible combinations = 4
 public class CombinationSum1 {
 
     void main(){
-        int[] nums = {1,3,4};
-        int target = 7;
+        int[] nums = {1,3,5,6,9,7,4};
+        int target = 18;
 
         int ans = combinationSum(nums,target);
         println(ans);
@@ -42,6 +42,12 @@ public class CombinationSum1 {
 
         if(i<0)
             return 0;
+
+        if(dp.containsKey(Arrays.asList(i,target))){
+            println("cache hit" + Arrays.asList(i,target));
+            return dp.get(Arrays.asList(i,target));
+        }
+
 
         if(target<nums[i])
             return combinationSumUtil(nums,i-1,target,dp);
