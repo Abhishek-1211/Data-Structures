@@ -1,4 +1,4 @@
-package Arrays;
+package MyArray;
 
 public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {

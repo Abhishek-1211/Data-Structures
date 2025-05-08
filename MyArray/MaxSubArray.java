@@ -1,4 +1,4 @@
-package Arrays;//import static jdk.nashorn.internal.objects.Global.print;
+package MyArray;//import static jdk.nashorn.internal.objects.Global.print;
 
 public class MaxSubArray {
 
