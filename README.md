@@ -22,6 +22,10 @@
 ## Stack/Queue-Problem List
 - To be updated soon
 
+## Backtracking
+1. Generate all subsequence of a string
+
+
 ## DP
 1. fibonacci
 2. unique paths[62]
