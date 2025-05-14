@@ -15,6 +15,7 @@
 6. find duplicate in array
 7. count freqeuncy of each element
 8. fizzbuzz
+9. Reverse Vowels of a String[345]
 
 ## LinkedList-Problem List
 - To be updated soon
@@ -33,3 +34,4 @@
 4. House Robber[198]
 5. Permutation Sum
 6. combination Sum-I
+7. longest Common Subsequence[1143]
