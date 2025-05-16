@@ -9,13 +9,12 @@
 1. find maximum and minimun in an array
 2. find maximum and minimun in an array-single pass/loop
 2. find 2 max elements in a single pass
-3. reverse the array/reverse only vowels
+3. reverse the array/reverse vowels of a String[345]
 4. Intersection of Arrays
 5. merge sorted array
 6. find duplicate in array
 7. count freqeuncy of each element
 8. fizzbuzz
-9. Reverse Vowels of a String[345]
 
 ## LinkedList-Problem List
 - To be updated soon
