@@ -15,6 +15,7 @@
 6. find duplicate in array
 7. count freqeuncy of each element
 8. fizzbuzz
+9. Merge 2 -sorted arrays[88]
 
 ## LinkedList-Problem List
 - To be updated soon
