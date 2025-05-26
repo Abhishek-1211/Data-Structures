@@ -7,15 +7,20 @@
 
 ## Array-Problem List
 1. find maximum and minimun in an array
-2. find maximum and minimun in an array-single pass/loop
-2. find 2 max elements in a single pass
-3. reverse the array/reverse vowels of a String[345]
-4. Intersection of Arrays
-5. merge sorted array
-6. find duplicate in array
-7. count freqeuncy of each element
-8. fizzbuzz
-9. Merge 2 -sorted arrays[88]
+2. find maximum and minimun in an array-single pass/loop 
+3. find 2 max elements in a single pass 
+4. reverse the array/reverse vowels of a String[345]
+5. Intersection of Arrays 
+6. merge sorted array 
+7. find duplicate in array 
+8. count freqeuncy of each element 
+9. fizzbuzz 
+10. Merge 2 -sorted arrays[88]
+11. Reordering of Arrays
+- wiggle sort-I[280]
+- 
+12. Rotate Arrays
+13. Best time to buy and sell stocks[121]
 
 ## LinkedList-Problem List
 - To be updated soon

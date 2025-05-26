@@ -26,16 +26,17 @@ public class CombinationSum1 {
 
     int combinationSum(int[] nums, int target) {
         HashMap<List<Integer>,Integer> dp = new HashMap<>();
-        return combinationSumUtil(nums,nums.length-1,target,dp);
-//        int ans = 0;
-//        for(Map.Entry entrySet:dp.entrySet()){
-//            print(entrySet+" ");
-//        }
+
+        int ans = combinationSumUtil(nums,nums.length-1,target,dp);
+        //int ans = combinationSumUtil(nums,nums.length-1,target);
+        for(Map.Entry entrySet:dp.entrySet()){
+            println(entrySet);
+        }
 //
-//        return ans;
+        return ans;
     }
 
-    int combinationSumUtil(int[] nums, int i, int target, HashMap<List<Integer>, Integer> dp) {
+    int combinationSumUtil(int[] nums, int i, int target,HashMap<List<Integer>,Integer> dp) {
 
         if(target==0)
             return 1;
@@ -65,6 +66,11 @@ public class CombinationSum1 {
 
         println("include "+nums[i]+ " "+include);
         println("exclude "+nums[i]+ " "+exclude);
+
+        /*for input N=18 and set = {1,3,5,6,9,7,4} total no of lines = 1476 lines
+        with dp and caching its 175 lines
+        */
+
         //return include+exclude;
         return dp.get(Arrays.asList(i,target));
     }
