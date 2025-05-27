@@ -17,10 +17,11 @@
 9. fizzbuzz 
 10. Merge 2 -sorted arrays[88]
 11. Reordering of Arrays
-- wiggle sort-I[280]
-- 
+    - wiggle sort-I[280]
+    - 
 12. Rotate Arrays
 13. Best time to buy and sell stocks[121]
+14. Running sum of 1D array[1480]
 
 ## LinkedList-Problem List
 - To be updated soon
