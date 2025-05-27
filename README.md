@@ -11,17 +11,15 @@
 3. find 2 max elements in a single pass 
 4. reverse the array/reverse vowels of a String[345]
 5. Intersection of Arrays 
-6. merge sorted array 
+6. merge sorted array[88]
 7. find duplicate in array 
 8. count freqeuncy of each element 
 9. fizzbuzz 
-10. Merge 2 -sorted arrays[88]
-11. Reordering of Arrays
-    - wiggle sort-I[280]
-    - 
-12. Rotate Arrays
-13. Best time to buy and sell stocks[121]
-14. Running sum of 1D array[1480]
+10. Reordering of Arrays
+    - wiggle sort-I[280] 
+11. Rotate Arrays
+12. Best time to buy and sell stocks[121]
+13. Running sum of 1D array[1480]
 
 ## LinkedList-Problem List
 - To be updated soon
